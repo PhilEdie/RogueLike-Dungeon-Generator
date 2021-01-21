@@ -1,0 +1,8 @@
+C:\Users\GGPC\OneDrive\Folders\Software\Godot Projects\RogueLikeFromScratch\.mono\temp\bin\Debug\Rogue Like From Scratch.dll
+C:\Users\GGPC\OneDrive\Folders\Software\Godot Projects\RogueLikeFromScratch\.mono\temp\bin\Debug\Rogue Like From Scratch.pdb
+C:\Users\GGPC\OneDrive\Folders\Software\Godot Projects\RogueLikeFromScratch\.mono\temp\obj\Debug\Rogue Like From Scratch.csprojAssemblyReference.cache
+C:\Users\GGPC\OneDrive\Folders\Software\Godot Projects\RogueLikeFromScratch\.mono\temp\obj\Debug\Rogue Like From Scratch.AssemblyInfoInputs.cache
+C:\Users\GGPC\OneDrive\Folders\Software\Godot Projects\RogueLikeFromScratch\.mono\temp\obj\Debug\Rogue Like From Scratch.AssemblyInfo.cs
+C:\Users\GGPC\OneDrive\Folders\Software\Godot Projects\RogueLikeFromScratch\.mono\temp\obj\Debug\Rogue Like From Scratch.csproj.CoreCompileInputs.cache
+C:\Users\GGPC\OneDrive\Folders\Software\Godot Projects\RogueLikeFromScratch\.mono\temp\obj\Debug\Rogue Like From Scratch.dll
+C:\Users\GGPC\OneDrive\Folders\Software\Godot Projects\RogueLikeFromScratch\.mono\temp\obj\Debug\Rogue Like From Scratch.pdb
